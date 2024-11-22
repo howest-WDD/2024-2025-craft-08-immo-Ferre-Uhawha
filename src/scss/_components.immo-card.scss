@@ -8,7 +8,6 @@
   padding: 0.5rem;
   position: relative;
 
-
   &:hover {
     transform: scale(1.1);
   }
@@ -18,11 +17,8 @@
     flex-direction: column;
     margin: 0.5rem;
 
-  
-
     & p {
       margin: 0;
-      
     }
   }
 
@@ -59,7 +55,7 @@
   }
   &__title {
     color: $color-black;
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
   }
 
   &__price {
@@ -69,25 +65,23 @@
   &__location {
     font-weight: 200;
     align-items: center;
-    gap: .5rem; 
+    gap: 0.5rem;
     margin-bottom: 1.5rem;
     color: black;
   }
 
   &__details {
     font-weight: 200;
-    font-size: .8rem;
-    gap: 1.5rem; 
+    font-size: 0.8rem;
+    gap: 1.5rem;
     color: black;
     & div {
-      gap: .5rem;
+      gap: 0.5rem;
     }
 
     & img {
       width: 1rem;
     }
-
-
   }
 
   &__tag {
@@ -96,20 +90,19 @@
     left: 1.5rem;
     text-transform: uppercase;
     color: white;
-    padding: .5rem 1rem; 
-    border-radius: 1.5rem ;
+    padding: 0.5rem 1rem;
+    border-radius: 1.5rem;
     z-index: 22;
 
     & p {
-      margin: 0; 
-      font-size: .8rem;
+      margin: 0;
+      font-size: 0.8rem;
       font-weight: 400;
     }
 
     &--sale {
       background-color: $color-sale !important;
       color: $color-rent;
-      
     }
 
     &--rent {
