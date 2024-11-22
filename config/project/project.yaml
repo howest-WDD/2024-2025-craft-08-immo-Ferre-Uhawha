@@ -1,4 +1,4 @@
-dateModified: 1732268367
+dateModified: 1732272550
 email:
   fromEmail: voornaam.naam@howest.be
   fromName: 'Craft Template'
@@ -13,6 +13,7 @@ fs:
     url: '@web/local'
 meta:
   __names__:
+    3c33eaf7-862b-4df0-aa1a-714ef14a8a36: Categories # Categories
     5d45f9f4-7ab7-4459-926d-a8006cad4227: Images # Images
     10d2260b-dd05-4a49-abb3-800017e15928: 'Craft Template' # Craft Template
     21d6f9ae-1d22-490e-bd89-d6ded5d514ac: 'body text' # body text
@@ -23,11 +24,13 @@ meta:
     3184ae61-b88c-4eea-ae09-39b5d4a73ae5: Strengths # Strengths
     19178fcc-602e-4e2e-a2a4-abf44f2ec6a3: House # House
     1765228e-0ad3-49c0-a7df-f552ada1e942: State # State
+    7763232f-b88a-43b5-914a-8cc8a5bcdf64: Categories # Categories
     a3917b41-5b9e-455d-82b1-9867d010e228: 'Body Text' # Body Text
     b22139ec-39a0-4d50-b49e-30f8bf67a23a: 'List Item' # List Item
     bfc5caff-33ac-495a-8336-7abe2887b021: 'Public Schema' # Public Schema
     d3b42bd7-e7fb-4536-8773-1f5957362b49: Price # Price
-    e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8: 'Plain Text' # Plain Text
+    e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8: Subtext # Subtext
+    eb919274-675e-4742-bcfa-a13d082beede: Category # Category
     f6eaef1f-2f88-4856-8eee-c5ae9620f572: 'Craft Template' # Craft Template
 plugins:
   ckeditor:

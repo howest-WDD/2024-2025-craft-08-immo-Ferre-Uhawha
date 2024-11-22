@@ -1,7 +1,7 @@
 columnSuffix: null
-handle: plainText
+handle: subtext
 instructions: null
-name: 'Plain Text'
+name: Subtext
 searchable: false
 settings:
   byteLimit: null
