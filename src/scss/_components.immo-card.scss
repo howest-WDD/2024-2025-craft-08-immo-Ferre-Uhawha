@@ -107,13 +107,13 @@
     }
 
     &--sale {
-      background-color: $color-sale;
+      background-color: $color-sale !important;
       color: $color-rent;
       
     }
 
     &--rent {
-      background-color: $color-rent;
+      background-color: $color-rent !important;
       color: $color-sale;
     }
   }
